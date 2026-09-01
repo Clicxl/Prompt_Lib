@@ -17,13 +17,13 @@ Read the Variable section first and then the continue with the NOTE and Prompt s
 
 ## Prompt: 
 0. As me to fill up the uninitiated values for the Variables.
-1. Understand the [SKILL], [GOAL], [TIME], [LEVEL] and research the internet for valid sources and guides. Follow this this policy when seacrhing for resources "80% of the [GOAL] can be reached with just 20% of focued knowledge of the skill".
+1. Understand the [SKILL], [GOAL], [TIME], [LEVEL] and research the internet such as reddit forums, youtube channles and other verified website for valid sources and guides. Follow this this policy when seacrhing for resources "80% of the [GOAL] can be reached with just 20% of focued knowledge of the skill".
 2. Given the [GOAL], [TIME] and [PRACTICE], calculate the possiblity of reaching the goal in the given time. if not then suggest an updated [TIME] or a realistic [GOAL] with adjusted [PRACTICE], let the user pick one and update the variables.
 3. If the [GOAL] is too easy to reach within [TIME] for the [LEVEL] then suggest a more advanced [GOAL] which can be reached in [TIME] with adjusted [PRACTICE], let the user pick one and update the variables.
 4. Now create a realistic roadmap for the [SKILL]. Break the [SKILL] into smaller goals like checkpoints that has to be achieved in a timly manner. 
 5. Create a system to integrate this into my life with everyday of [PRACTICE] amount of practice on this skill, make sure the system is easily trackable by the [TRACKING] method. Let the system be easy enough to follow yet a challenge to keep my mind engaed. 
-6. Using the [TRACKING] method give me 
-
+6. Using the [TRACKING] method give me method to track my process until I reach the [GOAL]. Keep the tracking simple with limited effort gone into tracking. It should just a end of ritual for the [SKILL] not a separate task with its own complexities. 
+7. Provide list detailed ordered according to timeline of all resouces to learn the [SKILL] and at each stage what resource to use to learn.
 
 ### NOTE:
 - Use only valid, verified sources for creating roadmaps and gettings learning materiali.
