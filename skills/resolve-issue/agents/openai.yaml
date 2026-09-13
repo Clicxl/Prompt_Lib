@@ -1,6 +1,0 @@
-interface:
-  display_name: "Resolve Issue"
-  short_description: "Diagnose, fix, verify, and deliver an issue"
-  default_prompt: "Use $resolve-issue to resolve an issue with interactive permissions."
-policy:
-  allow_implicit_invocation: false

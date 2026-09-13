@@ -1,6 +1,0 @@
-interface:
-  display_name: "Create Issue"
-  short_description: "Draft or publish a structured tracker issue"
-  default_prompt: "Use $create-issue to prepare a new issue interactively."
-policy:
-  allow_implicit_invocation: false
