@@ -10,20 +10,10 @@ One canonical library of explicit-invocation Agent Skills.
 
 ## Install globally
 
-On Windows, run:
-
-```powershell
-.\tools\install.ps1
+Run: 
 ```
-
-On macOS or Linux, run:
-
-```sh
-./tools/install.sh
+npx skill add Clicxl/Prompt_Lib
 ```
-
-The installers copy every canonical skill into the global skill directories for Codex, Claude Code, Cursor, Gemini CLI, and clients using the shared `.agents` directory.
-
 ## Invoke
 
 Use the skill name shown by the client. Codex commonly uses `$skill-name`; clients that expose skills as slash commands commonly use `/skill-name`. Each skill is configured for explicit invocation in Codex.
