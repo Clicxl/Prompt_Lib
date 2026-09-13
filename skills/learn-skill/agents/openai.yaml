@@ -1,0 +1,6 @@
+interface:
+  display_name: "Learn Skill"
+  short_description: "Build a goal-based learning and tracking plan"
+  default_prompt: "Use $learn-skill to build an interactive learning roadmap."
+policy:
+  allow_implicit_invocation: false
